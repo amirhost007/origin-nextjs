@@ -1,0 +1,51 @@
+.lodng-lst .report-tile h2 {
+  text-align: left;
+  font-weight: 700;
+  margin-bottom: 40px;
+  margin-top: 15px;
+}
+.tble-ds {
+  box-shadow: 0 3px 16px rgb(209, 209, 209);
+  border-radius: 10px;
+}
+.prcng h2 span {
+  float: right;
+  color: #3266fc;
+}
+.chr-cus {
+  box-shadow: 0 3px 20px rgb(220, 220, 220);
+  border-radius: 15px;
+  background-color: #fff;
+  padding: 20px;
+  margin-bottom: 30px;
+}
+.chr-cus p {
+  font-size: 20px;
+  font-weight: 700;
+  color: rgb(52, 51, 51);
+  margin-bottom: 10px;
+}
+.chr-cus input {
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid rgb(138, 138, 138);
+  background-color: rgb(255, 255, 255);
+  margin-bottom: 10px;
+}
+.chr-cus .row {
+  align-items: center;
+}
+.per-add {
+  width: 100%;
+  display: block;
+  color: #fff;
+  font-size: 16px;
+  background: #3266fc;
+  padding: 12px 30px;
+  border-radius: 50px;
+  text-align: center;
+}
+.per-add:hover {
+  color: #fff;
+}

@@ -1,0 +1,30 @@
+.opps_404{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+  }
+  .dtls_ops h3{
+    font-size: 23px;
+  margin-bottom: 8px;
+  color: #030303;
+  font-weight: 800;
+  margin-top: 10px;
+  }
+  .dtls_ops p{
+    font-size: 16px;
+  color: #252525;
+  margin-top: 0;
+  font-weight: 500;
+  line-height: 24px;
+  }
+  .dtls_ops a{
+    background-color: #0145D4;
+  color: #fff;
+  font-size: 18px;
+  padding: 14px 30px;
+  border-radius: 50px;
+  margin-top: 5px;
+  display: inline-block;
+  }
