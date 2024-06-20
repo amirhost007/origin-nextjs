@@ -12,6 +12,7 @@
     "react": "^18",
     "react-dom": "^18",
     "next": "14.2.3"
+     "next-pwa": "^5.2.23",
   },
   "devDependencies": {
     "typescript": "^5",
