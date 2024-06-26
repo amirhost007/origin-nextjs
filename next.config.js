@@ -8,7 +8,7 @@ const withPWA = require("next-pwa")({
 const nextConfig = {
   reactStrictMode: true,
   env: {
-    NEXTAUTH_URL: "https://originrent.com/",
+    NEXTAUTH_URL: "https://origin-nextjs.vercel.app/",
     NEXT_PUBLIC_API_BASE_URL: "https://originlaravel.iahwservice.com/api/",
     NEXT_PUBLIC_PDF_BASE_URL: "https://originlaravel.iahwservice.com/",
     NEXT_PUBLIC_GOOGLE_CLIENT_ID:
