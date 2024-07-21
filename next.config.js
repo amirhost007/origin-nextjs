@@ -9,8 +9,8 @@ const nextConfig = {
   reactStrictMode: true,
   env: {
     NEXTAUTH_URL: "https://origin-nextjs.vercel.app/",
-    NEXT_PUBLIC_API_BASE_URL: "https://originlaravel.iahwservice.com/api/",
-    NEXT_PUBLIC_PDF_BASE_URL: "https://originlaravel.iahwservice.com/",
+    NEXT_PUBLIC_API_BASE_URL: "https://originrent.iahwservice.com/api/",
+    NEXT_PUBLIC_PDF_BASE_URL: "https://originrent.iahwservice.com/",
     NEXT_PUBLIC_GOOGLE_CLIENT_ID:
       "539938794424-u46ueh3scdpgejreuddg3olvrd5ckvhn.apps.googleusercontent.com",
     NEXT_PUBLIC_GOOGLE_SECRET_ID: "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",
